@@ -6,14 +6,14 @@
 
 
 ## A PROPOS DE MOI
-- **Développeur français**
-- **Ma passion c'est le développement et le réseaux**
+- **Développeur Français**
+- **Ma passion c'est le développement**
 
 #
 ## MES COMPETENCES
 
-- **Développeur JavaScript & Java** 🔐
-- **Développeur Web (SCSS,CSS,JAVASCRIPT,PHP,HTML)** 🌍
+- **Développeur Lua/HTML/CSS/JS** 🔐
+- **Développeur Web (CSS,JAVASCRIPT,HTML)** 🌍
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZmainLeHir&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width:100%;">
 
