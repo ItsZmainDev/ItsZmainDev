@@ -1,6 +1,6 @@
 # ItsZmainDev
 
-![demon slayer takapter]([https://i.pinimg.com/originals/fa/9c/ac/fa9cac90dfc02d092faaa6f2d6f193d1.gif](https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif))
+![code](https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif)
 
 # 
 
