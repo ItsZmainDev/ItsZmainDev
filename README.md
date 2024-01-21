@@ -7,16 +7,10 @@
 
 ## A PROPOS DE MOI
 - **Développeur Français**
-- **Ma passion c'est le développement**
+- **Je développe pas pour les gens**
 
 #
-## MES COMPETENCES
-
-- **Développeur Lua/HTML/CSS/JS** 🔐
-- **Développeur Web (CSS,JAVASCRIPT,HTML)** 🌍
-
-
-# 💻 Tech Stack:
+# 💻 Tech Stacks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ItsZmainDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
