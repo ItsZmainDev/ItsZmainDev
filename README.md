@@ -1,13 +1,8 @@
 # ItsZmainDev
 
-![code](https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif)
-
-# 
-
-
-## A PROPOS DE MOI
-- **Développeur Français**
-- **Je développe pas pour les gens**
+💻 Backend/Frontend Developer
+🛠️ HTML/CSS, JS/TS, Python, C
+📊 SQL | Git | React | Vue
 
 #
 # 💻 Tech Stacks:
